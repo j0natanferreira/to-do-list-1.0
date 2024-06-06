@@ -3,4 +3,4 @@
 ## Gravando mudanças no repositorio 03
 
 * comando git pull
-* Teste
+* comando git fetch
